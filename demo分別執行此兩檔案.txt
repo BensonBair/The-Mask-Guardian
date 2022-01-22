@@ -1,0 +1,14 @@
+1. cmd 
+	>cd C:\Users\Asus\Desktop\OOP_FinalProject\app
+
+	>python main.py
+
+2. OPEN NEW cmd 視窗
+	>cd C:\Users\Asus\Desktop\OOP_FinalProject
+
+	>python telegramBotServer.py
+
+
+======================================
+	按  ctrl + C 結束執行
+======================================
