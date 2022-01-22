@@ -1,0 +1,1 @@
+This is where we save the pictures detected as without mask category.

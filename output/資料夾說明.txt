@@ -1,0 +1,7 @@
+   folder  	               用途
+
+sent		將已傳送到 Telegrame 的照片移動過來
+tmp_with	demo 之前從 WithMask 移過來的照片
+tmp_without	demo 之前從 WithoutMask 移過來的照片
+
+(傳送到 telegram 的照片會從原資料夾移除並移到 sent 資料夾)
